@@ -1,0 +1,17 @@
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\bin\Debug\net9.0-windows\WinCommunity.exe
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\bin\Debug\net9.0-windows\WinCommunity.deps.json
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\bin\Debug\net9.0-windows\WinCommunity.runtimeconfig.json
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\bin\Debug\net9.0-windows\WinCommunity.dll
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\bin\Debug\net9.0-windows\WinCommunity.pdb
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.Form1.resources
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.csproj.GenerateResource.cache
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.AssemblyInfoInputs.cache
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.AssemblyInfo.cs
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.csproj.CoreCompileInputs.cache
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.dll
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\refint\WinCommunity.dll
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.pdb
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.genruntimeconfig.cache
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\ref\WinCommunity.dll
+C:\Users\CODER\Documents\IT Lessons\Scripting\Lesson20.WinCommunity\WinCommunity\WinCommunity\obj\Debug\net9.0-windows\WinCommunity.ResgisterForm.resources
